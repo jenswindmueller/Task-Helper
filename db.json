@@ -17,6 +17,12 @@
       "day": "Mar 11th at 3pm",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "Build a House",
+      "day": "Oct 3rd at 11:50am",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
